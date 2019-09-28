@@ -1,0 +1,4 @@
+Hi! Thank you for visiting my website.
+I am Aditya Singhal, a senior year student pursuing Bachelor of Technology in Electrical & Electronics at Delhi Technological University, India.
+I had the privilege of working with Prof. Lamberto Ballan at University of Padova, Italy during June - September 2019 in the field of computer vision.
+Currently, I am doing my final year project under the supervision of Prof. S.Indu at DTU. 
